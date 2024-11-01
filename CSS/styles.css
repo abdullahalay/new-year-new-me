@@ -1,0 +1,53 @@
+.banner{
+    background-image: url("/images/banner/banner1.png"); 
+    background-repeat: no-repeat;
+   width: 100%;
+   height: 800px;
+    color:black;
+    position: relative;
+    overflow: hidden;
+    
+}
+.banner-item{
+    margin: 300px 200px 130px 800px;
+}
+ .header-title{
+    font-size: 70px;
+    font-weight: 800;
+ } 
+ .btn-primary{
+    background-color: orangered;
+    border-radius: 5px;
+    border: 0;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    
+  }
+  .middle-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+  }
+  .middle{
+    margin-top: 80px;
+  }
+  .image{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+  }
+  .middle-list{
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+  .ul-class>li{
+    margin-top: 30px;
+  }
+  .middle-title{
+    font-size: 35px;
+  }
+
